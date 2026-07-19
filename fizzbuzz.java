@@ -1,3 +1,4 @@
+// FizzBuzz problem solution using Java
 import java.util.Scanner;
 public class fizzbuzz{
     public static void main (String args[]){
