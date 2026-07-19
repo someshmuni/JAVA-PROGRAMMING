@@ -1,4 +1,4 @@
-
+// Basic Java example program
 import java.util.Scanner;
 
 public class example1{
