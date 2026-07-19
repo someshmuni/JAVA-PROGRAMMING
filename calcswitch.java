@@ -1,4 +1,5 @@
 
+// Calculator using switch case
 import java.util.Scanner;
 public class calcswitch{
 public static void main(String[] args) {
