@@ -1,4 +1,4 @@
-
+// Conditional statements using if else in Java
 import java.util.Scanner;
 
 public class ifelse{
