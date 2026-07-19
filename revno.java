@@ -1,3 +1,4 @@
+// Program to reverse a number
 import java.util.Scanner;
 public class revno{
     public static void main(String[] args)   
