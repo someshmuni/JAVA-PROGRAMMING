@@ -1,3 +1,4 @@
+// Switch case statement example in Java
 import java.util.Scanner;
 public class switch1{
     public static void main(String[] args) {
