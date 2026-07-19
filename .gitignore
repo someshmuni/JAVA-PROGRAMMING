@@ -1,2 +1,3 @@
+# Ignoring unnecessary files and folders from Git tracking
 .vscode/
 *.class
