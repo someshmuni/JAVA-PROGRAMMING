@@ -1,3 +1,4 @@
+// Program to calculate sum of n numbers
 import java.util.Scanner;
 public class sumofn {
     public static void main(String[] args) {
